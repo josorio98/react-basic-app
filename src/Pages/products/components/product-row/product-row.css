@@ -1,0 +1,8 @@
+.product-row-container {
+    width: 95% ;
+    height: 2px;
+    margin:  0 auto;
+    margin-top: 2px;
+    text-align: left;
+    border: 1px solid red;
+}

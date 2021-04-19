@@ -1,0 +1,12 @@
+.product-category-row {
+    width: 95% ;
+    margin: 0 auto;
+    border: 1px solid turquoise;
+    margin-top: 2px;
+}
+
+.style-letter{
+ text-align: left;
+ font-weight: bolder;
+}
+

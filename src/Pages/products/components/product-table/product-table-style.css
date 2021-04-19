@@ -1,0 +1,14 @@
+.product-table-container {
+    width: 95% ;
+    margin: 0 auto;
+    height: 287px;
+    margin-top: 10px;
+    border: 1px solid green;
+}
+.style-table{
+    width: 95% ;
+    height: 2px;
+    margin: auto;
+    margin-top: 10px;
+    text-align: left;
+}
